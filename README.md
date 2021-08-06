@@ -1,2 +1,2 @@
-<img src="https://raw.githubusercontent.com/ImmuneLion318/stats/master/generated/overview.svg">
-<img src="https://raw.githubusercontent.com/ImmuneLion318/stats/master/generated/languages.svg">
+<img src="https://raw.githubusercontent.com/ImmuneLion318/GitHub-Stats/master/generated/overview.svg">
+<img src="https://raw.githubusercontent.com/ImmuneLion318/GitHub-Stats/master/generated/languages.svg">
